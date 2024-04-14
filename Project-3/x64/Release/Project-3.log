@@ -1,0 +1,8 @@
+﻿  Project-3.cpp
+C:\Users\User\OneDrive - Hanoi University of Science and Technology\Documents\Hust 20232\ATTT\Project-ATTT\Project-3\Project-3\Project-3.cpp(18,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating code
+  9 of 746 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    45 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project-3.vcxproj -> C:\Users\User\OneDrive - Hanoi University of Science and Technology\Documents\Hust 20232\ATTT\Project-ATTT\Project-3\x64\Release\Project-3.exe

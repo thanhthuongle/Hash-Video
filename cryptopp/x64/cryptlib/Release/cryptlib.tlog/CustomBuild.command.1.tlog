@@ -1,0 +1,11 @@
+^C:\USERS\USER\ONEDRIVE - HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY\DOCUMENTS\HUST 20232\AN TOÀN THÔNG TIN\PROJECT-ATTT\PROJECT-3\CRYPTOPP\ADHOC.CPP.PROTO
+if not exist adhoc.cpp copy "C:\Users\User\OneDrive - Hanoi University of Science and Technology\Documents\Hust 20232\An Toàn Thông tin\Project-ATTT\Project-3\cryptopp\adhoc.cpp.proto" adhoc.cpp
+        echo: >> adhoc.cpp.copied
+^C:\USERS\USER\ONEDRIVE - HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY\DOCUMENTS\HUST 20232\AN TOÀN THÔNG TIN\PROJECT-ATTT\PROJECT-3\CRYPTOPP\RDRAND.ASM
+ml64.exe /c /nologo /D_M_X64 /W3 /Cx /Zi /Fo"x64\cryptlib\Release\rdrand-x64.obj" "C:\Users\User\OneDrive - Hanoi University of Science and Technology\Documents\Hust 20232\An Toàn Thông tin\Project-ATTT\Project-3\cryptopp\rdrand.asm"
+^C:\USERS\USER\ONEDRIVE - HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY\DOCUMENTS\HUST 20232\AN TOÀN THÔNG TIN\PROJECT-ATTT\PROJECT-3\CRYPTOPP\RDSEED.ASM
+ml64.exe /c /nologo /D_M_X64 /W3 /Cx /Zi /Fo"x64\cryptlib\Release\rdseed-x64.obj" "C:\Users\User\OneDrive - Hanoi University of Science and Technology\Documents\Hust 20232\An Toàn Thông tin\Project-ATTT\Project-3\cryptopp\rdseed.asm"
+^C:\USERS\USER\ONEDRIVE - HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY\DOCUMENTS\HUST 20232\AN TOÀN THÔNG TIN\PROJECT-ATTT\PROJECT-3\CRYPTOPP\X64DLL.ASM
+ml64.exe /c /nologo /D_M_X64 /W3 /Zi /Fo"x64\cryptlib\Release\x64dll.obj" "C:\Users\User\OneDrive - Hanoi University of Science and Technology\Documents\Hust 20232\An Toàn Thông tin\Project-ATTT\Project-3\cryptopp\x64dll.asm"
+^C:\USERS\USER\ONEDRIVE - HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY\DOCUMENTS\HUST 20232\AN TOÀN THÔNG TIN\PROJECT-ATTT\PROJECT-3\CRYPTOPP\X64MASM.ASM
+ml64.exe /c /nologo /D_M_X64 /W3 /Zi /Fo"x64\cryptlib\Release\x64masm.obj" "C:\Users\User\OneDrive - Hanoi University of Science and Technology\Documents\Hust 20232\An Toàn Thông tin\Project-ATTT\Project-3\cryptopp\x64masm.asm"
